@@ -1,0 +1,35 @@
+.GenerateButton {
+  padding: 15px;
+  border-radius: 8px;
+  font-size: 14pt;
+  font-weight: bold;
+  background-color: white;
+  color: #c44d4d;
+}
+
+label {
+  font-weight: bold;
+  font-size: 14pt;
+}
+
+h2 {
+  font: italic bold 20pt/20pt Georgia, serif;
+}
+
+input[type="text"] {
+  font-size: 12pt;
+  padding: 12px 8px;
+  margin: 8px 4px;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+input[type="submit"] {
+  padding: 7px 20px;
+  margin: 8px 8px;
+  border-radius: 8px;
+  font-size: 12pt;
+  font-weight: bold;
+  background-color: white;
+  color: black;
+}

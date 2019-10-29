@@ -1,0 +1,15 @@
+.Generated {
+  color: green;
+  margin: 20px 40px;
+  padding: 15px;
+  border-radius: 15px;
+  background-color: white;
+}
+
+h3 {
+  font: italic bold 15pt/15pt Georgia, serif;
+}
+
+b {
+  padding: 4px;
+}

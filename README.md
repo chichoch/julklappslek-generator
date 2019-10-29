@@ -2,4 +2,4 @@
 
 # Julklappsnamnsgenerator
 
-[https://julklappsleks-generator.netlify.com/]
+https://julklappsleks-generator.netlify.com/
